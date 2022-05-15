@@ -27,4 +27,4 @@ When the player has finished their final hit, the dealer flips over the hidden c
 
 ### To Run
 Clone the repo: `git clone https://github.com/Paul72187/BlackjackPython.git`
-Open the blackjack.py file and right click on it. Select Run Python File in Terminal to play the game in the terminal.
+Open the blackjack.py file and right click on it. Select "Run Python File in Terminal" to play the game in the terminal.

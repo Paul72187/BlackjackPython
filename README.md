@@ -6,7 +6,7 @@ The game is designed for two players (one player vs. the dealer (computer)).
 
 ### Game objective
 Both the player and the dealer can continue to request additional playing cards.
-Both player and dealer should attempt to get a total score as close to 21 as possible, without exceeding 21.
+Both player and dealer should attempt to get a total score of as close to 21 as possible, without exceeding 21.
 
 ### Card values
 Aces are worth either 1 or 11.

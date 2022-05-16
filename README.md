@@ -2,7 +2,7 @@
 
 ### Introduction
 This is a version of a conventional Blackjack game in Python.
-The game is designed for two players (one player vs. the dealer (computer)).
+The game is designed for two players (one player vs. the dealer (i.e. the computer)).
 
 ### Game objective
 Both the player and the dealer can continue to request additional playing cards.

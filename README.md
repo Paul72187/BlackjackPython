@@ -1,4 +1,4 @@
-# Blackjack (using Python)
+# Blackjack (using Python):
 
 ### Introduction
 This is a version of a conventional Blackjack game in Python.

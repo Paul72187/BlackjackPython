@@ -1,6 +1,6 @@
 # Blackjack (using Python):
 
-### Introduction
+### Introduction:
 This is a version of a conventional Blackjack game in Python.
 The game is designed for two players (one player vs. the dealer (i.e. the computer)).
 
